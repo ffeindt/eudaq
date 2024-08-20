@@ -425,7 +425,7 @@ uint64_t DSO9254AEvent2StdEventConverter::timeConverter( std::string date, std::
     {"FEB",  2},
     {"MAR",  3},
     {"APR",  4},
-    {"MAI",  5},
+    {"MAY",  5},
     {"JUN",  6},
     {"JUL",  7},
     {"AUG",  8},
